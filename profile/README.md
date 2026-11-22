@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banners/catther-banner-1600x500.png" alt="Catther." width="100%">
-
 <br>
 
 <img src="https://img.shields.io/badge/-Software%20livre-111111?style=flat-square" alt="Software livre">
@@ -38,11 +36,11 @@
   <tr>
     <td align="center" width="300">
       <!-- TODO: troque o # pelo link do repositório -->
-      <a href="#"><img src="assets/logo/catther-logo-256.png" width="120" alt="Catther-Doortable"></a>
+      <a href="#"><img src="https://i.pinimg.com/736x/82/1e/46/821e46dbcc325b2f0ef55f95710e9833.jpg" width="120" alt="Catther-Doortable"></a>
       <br><br>
       <b>Catther-Doortable</b>
       <br>
-      <sub>Distribuição Linux baseada em Debian, pensada para hardware modesto: limpa, simples e prática. Em desenvolvimento.</sub>
+      <sub>Distribuição Linux baseada em Debian, feita em uma e pensada em máquinas modestas, rodando em um dell insipron 560s de forma flúida </sub>
     </td>
     <!-- Para adicionar outro projeto, copie o bloco <td> acima e edite. -->
   </tr>
