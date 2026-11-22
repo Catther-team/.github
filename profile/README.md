@@ -42,7 +42,6 @@
       <br>
       <sub>Distribuição Linux baseada em Debian, feita em uma e pensada em máquinas modestas, rodando em um dell insipron 560s de forma flúida </sub>
     </td>
-    <!-- Para adicionar outro projeto, copie o bloco <td> acima e edite. -->
   </tr>
 </table>
 
@@ -55,7 +54,6 @@
 <p align="center">
   Desenvolvedores, testadores, tradutores e quem gosta de divulgar software livre são bem-vindos.<br>
   Abra uma issue em qualquer projeto ou venha conversar com a gente.
-</p>
 
 <!-- TODO: adicione aqui os links da comunidade:
 <p align="center">
