@@ -69,7 +69,7 @@
 
 <img src="assets/banners/catther-strip-1600x200.png" alt="Catther." width="100%">
 
-<sub>Feito no Brasil 🇧🇷 por voluntários</sub>
+<sub>Feito no Brasil 🇧🇷 Catther.</sub>
 
 </div>
 
