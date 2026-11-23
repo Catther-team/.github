@@ -62,7 +62,10 @@
 <p align="center">
   <a href="#">Doortable</a> · <a href="#">https://github.com/Catther-team/Doortable</a>
 </p>
--->
+
+<p align="center">
+  <a href="#">Nosso suporte</a> · <a href="#">https://fluxer.gg/8q0S5NZf</a>
+</p>
 
 <br>
 
