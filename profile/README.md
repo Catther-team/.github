@@ -36,7 +36,7 @@
   <tr>
     <td align="center" width="300">
       <!-- TODO: troque o # pelo link do repositório -->
-      <a href="#"><img src="https://i.pinimg.com/736x/82/1e/46/821e46dbcc325b2f0ef55f95710e9833.jpg" width="120" alt="Catther-Doortable"></a>
+      <a href="https://github.com/Catther-team/Doortabl"><img src="https://i.pinimg.com/736x/82/1e/46/821e46dbcc325b2f0ef55f95710e9833.jpg" width="120" alt="Catther-Doortable"></a>
       <br><br>
       <b>Catther-Doortable</b>
       <br>
@@ -55,9 +55,8 @@
   Desenvolvedores, testadores, tradutores e quem gosta de divulgar software livre são bem-vindos.<br>
   Abra uma issue em qualquer projeto ou venha conversar com a gente.
 
-<!-- TODO: adicione aqui os links da comunidade:
 <p align="center">
-  <a href="#">Comunidade</a> · <a href="#">Site</a>
+  <a href="#">Doortable</a> · <a href="#">https://github.com/Catther-team/Doortable</a>
 </p>
 -->
 
