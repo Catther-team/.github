@@ -36,7 +36,7 @@
   <tr>
     <td align="center" width="300">
       <!-- TODO: troque o # pelo link do repositório -->
-      <a href="https://github.com/Catther-team/Doortabl"><img src="https://i.pinimg.com/736x/82/1e/46/821e46dbcc325b2f0ef55f95710e9833.jpg" width="120" alt="Catther-Doortable"></a>
+      <a href="https://github.com/Catther-team/Doortable"><img src="https://i.pinimg.com/736x/82/1e/46/821e46dbcc325b2f0ef55f95710e9833.jpg" width="120" alt="Catther-Doortable"></a>
       <br><br>
       <b>Catther-Doortable</b>
       <br>
