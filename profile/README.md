@@ -26,6 +26,10 @@
   <b>Feito por voluntários brasileiros:</b> somos uma organização de desenvolvedores que constrói junto, de forma aberta e transparente.
 </p>
 
+<p align="center">
+  <b>Apoiamos projetos open-source:</b> apoiamos frequentemente projetos de código aberto & software livre, principalmente os feitos nacionalmente.
+</p>
+
 <br>
 
 <h2 align="center">Projetos e links</h2>
